@@ -1,0 +1,80 @@
+#container{
+    margin: auto;
+    width:35em;
+    border:1px solid black;
+    height:150vh;
+}
+#container1{
+    text-align: center;
+}
+#JAMB{
+    color: red;
+}
+#ict{
+    color: red;
+}
+#train{
+    background-color: black;
+    color: white;
+    width: 15em;
+    margin: auto;
+}
+#zazu{
+    height: 10em;
+    width:20em;
+}
+#box1{
+    background-color: black;
+    color: white;
+    width: 15em;
+    margin:left;
+    text-align: center;
+    padding:1em 0 1em 0;
+    height: 18.5em;
+}
+#az{
+    color: red;
+    margin-top: auto;
+} 
+
+#duration{
+ background-color: white;
+ color: black;
+ margin:right 70em;   
+}
+#weeed{
+    background-color: rgb(209, 72, 22);
+    color: white;
+    width: 15em;
+    margin:left;
+    text-align: center;
+    float:right;
+    margin-top: -20.5em;
+    margin-right: ;   
+}
+#classes{
+    text-align: center;
+}
+#CODE{
+    background-color:RED;
+    padding: 1.1em 0 1.1em 0;
+}  
+#NOW{
+    background-color: white;
+    color: RED;
+    text-align: center;
+    width: 12em;
+    margin: auto;
+     
+}
+#IZIK{
+    background-color:;
+    color: RED;
+    text-align: center;
+    width: 2em;
+    margin: auto;
+    
+}
+    
+
+
